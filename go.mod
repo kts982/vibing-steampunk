@@ -2,6 +2,8 @@ module github.com/oisee/vibing-steampunk
 
 go 1.26.0
 
+toolchain go1.26.8
+
 require (
 	github.com/chromedp/cdproto v0.0.0-20260912003405-686a5c723acc
 	github.com/chromedp/chromedp v0.16.0
